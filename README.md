@@ -1,5 +1,5 @@
 
-<h1>JAY GURU DEV</h1>
+<h1 style="color:red;">JAY GURU DEV</h1>
 <h1 align="center">Hi 👋, I'm CoderSiddharthyadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
