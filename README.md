@@ -11,7 +11,7 @@
 
 
 
-<P><img src="s4.png">
-<P><img src="s1.jpg">
-<P><img src="s2.jpg">
-<P><img src="s3.jpg">
+<P><img src="s4.png"></P>
+<P><img src="s1.jpg"></P>
+<P><img src="s2.jpg"></P>
+<P><img src="s3.jpg"></P>
